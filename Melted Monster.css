@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Melted Monster';
+    src: url('fonts/Melted-Monster.eot');
+    src: url('fonts/Melted-Monster.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Melted-Monster.woff2') format('woff2'),
+         url('fonts/Melted-Monster.woff') format('woff'),
+         url('fonts/Melted-Monster.ttf')  format('truetype'),
+         url('fonts/Melted-Monster.svg#Melted Monster') format('svg');
+}
